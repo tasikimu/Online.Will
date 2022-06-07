@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Online.Will.API", "Online.Will.API\Online.Will.API.csproj", "{D4857244-F8FF-400A-9900-D04BB4BD6E4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Online.Will.API", "Online.Will.API\Online.Will.API.csproj", "{D4857244-F8FF-400A-9900-D04BB4BD6E4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
